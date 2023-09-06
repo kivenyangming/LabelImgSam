@@ -8,3 +8,7 @@
 5. 将bbox中的xywh格式数据更改为xyxy格式
 6. 将xyxy数组转换为SortedDict格式数据
 7. 两点法获取目标框最小外接矩形
+
+
+https://github.com/kivenyangming/LabelImgSam/assets/59249258/8ea47c1c-3d83-4ca7-9420-6561d7e495df
+
