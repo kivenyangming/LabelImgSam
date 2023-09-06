@@ -1,6 +1,6 @@
 # LabelImgSam
 这是一个通过mobileSam推理获取预测框进行筛选出目标框的脚本，协助标注人员快速标注工作，在小目标标注上具有明显优势\
-流程：\
+流程：
 1. CV2读取图像并转RGB格式
 2. 调用mobileSam网络获取mask_generator
 3. 筛选出图像推理结果中的area和bbox数组
