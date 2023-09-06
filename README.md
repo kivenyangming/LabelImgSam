@@ -9,7 +9,7 @@
 6. 将xyxy数组转换为SortedDict格式数据
 7. 两点法获取目标框最小外接矩形
 
-
+# 示意图
 ![nnsnl-w5rx2](https://github.com/kivenyangming/LabelImgSam/assets/59249258/9f055673-edc0-4ffa-ac52-147212ea81ed)
 
 
