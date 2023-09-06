@@ -10,5 +10,6 @@
 7. 两点法获取目标框最小外接矩形
 
 
-https://github.com/kivenyangming/LabelImgSam/assets/59249258/8ea47c1c-3d83-4ca7-9420-6561d7e495df
+![nnsnl-w5rx2](https://github.com/kivenyangming/LabelImgSam/assets/59249258/9f055673-edc0-4ffa-ac52-147212ea81ed)
+
 
